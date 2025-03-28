@@ -1,0 +1,64 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*$py.class
+*.so
+.Python
+
+# Environment
+.env
+.env.*
+.local.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+# Build/Distribution
+dist/
+build/
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Database
+*.db
+*.sqlite*
+~/.personachat/
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+.cache
+*.xml
+*.cover
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+._*
+.Spotlight-V100
+.Trashes
+
+# Temporary
+*.tmp
+*.bak
+*~
