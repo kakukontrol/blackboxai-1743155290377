@@ -1,0 +1,1 @@
+"""User-installable plugins directory initialization."""
